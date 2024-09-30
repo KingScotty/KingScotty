@@ -21,7 +21,7 @@ I'm always eager to collaborate on exciting projects or discuss software develop
 - [LinkedIn](https://www.linkedin.com/in/scott-browning-40282a23a/)
 
 ## Fun Fact
-- ⚡ I do amateur powerlifting, my three lifts are 425 squat, 405 deadlift, 320 bench press.
+- ⚡ I do amateur powerlifting, my three lifts are 455 squat, 405 deadlift, 320 bench press.
 
 
 <!---
