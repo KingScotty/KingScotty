@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on indie video games.
 
 ## Skills
-- **Programming Languages**: Java, HTML, CSS
+- **Programming Languages**: Java, HTML, CSS, SQL
 - **IDEs**: NetBeans, Eclipse, Brackets
 
 ## Let's Connect!
