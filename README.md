@@ -4,8 +4,8 @@
 - 👀 I’m interested in Software Development, Defense, and Bodybuilding.
 
 ## Interests
-- 🌱 I’m currently learning advanced Java skills.
-- 💞️ I’m looking to collaborate on indie video games.
+-  I’m currently learning advanced Java skills.
+-  I’m looking to collaborate on indie video games.
 
 ## Skills
 - **Programming Languages**: Java, HTML, CSS, SQL
