@@ -9,7 +9,7 @@
 -  I’m looking to collaborate on indie video games.
 
 ## Skills
-_ **OS** Windows and Red Hat Linux
+- **OS** Windows and Red Hat Linux
 - **Programming Languages**: Java, HTML, CSS, SQL
 - **IDEs**: intellij idea. NetBeans, Eclipse, Brackets
 
