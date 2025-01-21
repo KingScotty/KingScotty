@@ -2,7 +2,8 @@
 
 ## About Me
 -  Currently seeking tech internships
--  I’m interested in Software Development, Defense, and Bodybuilding.4
+-  I’m interested in Software Development, Defense, and Bodybuilding.
+-  Vetern
 
 ## Interests
 -  I’m currently learning advanced Java skills.
