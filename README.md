@@ -1,15 +1,17 @@
 # 👋 Hi, I’m @KingScotty (Scott Browning)
 
 ## About Me
-- 👀 I’m interested in Software Development, Defense, and Bodybuilding.
+-  Currently seeking tech internships
+-  I’m interested in Software Development, Defense, and Bodybuilding.4
 
 ## Interests
 -  I’m currently learning advanced Java skills.
 -  I’m looking to collaborate on indie video games.
 
 ## Skills
+_ **OS** Windows and Red Hat Linux
 - **Programming Languages**: Java, HTML, CSS, SQL
-- **IDEs**: NetBeans, Eclipse, Brackets
+- **IDEs**: intellij idea. NetBeans, Eclipse, Brackets
 
 ## Let's Connect!
 I'm always eager to collaborate on exciting projects or discuss software development and technology. Feel free to reach out if you’re interested in working together or just want to connect!
