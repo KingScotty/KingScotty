@@ -1,31 +1,27 @@
 # 👋 Hi, I’m @KingScotty (Scott Browning)
 
 ## About Me
--  Currently seeking tech internships
--  I’m interested in Software Development, Defense, and Bodybuilding.
--  Veteran
+- 🎓 Information Technology major at the University of Cincinnati, focusing on Software Development.
+- 🛠️ Currently seeking tech internships to grow my skills and gain industry experience.
+- 💪 Veteran and amateur powerlifter with a passion for personal growth.
 
 ## Interests
--  I’m currently learning advanced Java skills.
--  I’m looking to collaborate on indie video games.
+- 🖥️ Learning advanced Java skills.
+- 🤝 Open to contributing to open-source projects or connecting with like-minded developers.
+- 🎮 Looking to collaborate on indie video game development as a hobby.
 
 ## Skills
-- **OS** Windows and Red Hat Linux
-- **Programming Languages**: Java, HTML, CSS, SQL
-- **IDEs**: intellij idea. NetBeans, Eclipse, Brackets
-
-## Let's Connect!
-I'm always eager to collaborate on exciting projects or discuss software development and technology. Feel free to reach out if you’re interested in working together or just want to connect!
-
-## Contact
-- 📫 Message me on GitHub or shoot me an email.
-
-## My Social
-- [LinkedIn](https://www.linkedin.com/in/scott-browning-40282a23a/)
+- **Languages:** Java, HTML, CSS, SQL  
+- **Frameworks/Tools:** IntelliJ IDEA, NetBeans, Eclipse, Brackets  
+- **Operating Systems:** Windows, Red Hat Linux  
 
 ## Fun Fact
-- ⚡ I do amateur powerlifting, my three lifts are 495 squat, 495 deadlift, 320 bench press.
+- ⚡ I do amateur powerlifting, and my current PRs are a 495 squat, 495 deadlift, and 320 bench press.
 
+## Let's Connect!
+I’m always eager to collaborate on exciting projects or discuss software development.  
+- 📫 [Email Me](mailto:youremail@example.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/scott-browning-40282a23a/)
 
 <!---
 KingScotty/KingScotty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
