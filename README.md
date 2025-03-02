@@ -16,7 +16,7 @@
 - **Operating Systems:** Windows, Red Hat Linux  
 
 ## Fun Fact
-- ⚡ I do amateur powerlifting, and my current PRs are a 495 squat, 495 deadlift, and 320 bench press.
+- ⚡ I do amateur powerlifting, and my current PRs are a 521 squat, 527 deadlift, and 331 bench press.
 
 ## Let's Connect!
 I’m always eager to collaborate on exciting projects or discuss software development.  
