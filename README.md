@@ -20,7 +20,7 @@
 - ⚡ I do amateur powerlifting, and my current PRs are a 521 squat, 527 deadlift, and 331 bench press.
 
 ## Hobbies
-🎮 Hobbyist interest in indie game development, strategy games, and building dynamic systems (inspired by RimWorld, Kenshi, and Paradox titles)
+- 🎮 Hobbyist interest in indie game development, strategy games, and building dynamic systems (inspired by RimWorld, Kenshi, and Paradox titles)
 
 ## Let's Connect!
 I’m always eager to collaborate on exciting projects or discuss software development.  
