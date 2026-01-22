@@ -6,7 +6,7 @@
 - 💪 Veteran and amateur powerlifter with a passion for personal growth.
 
 ## Interests
-- 🖥️ Learning advanced Java skills.
+- 🖥️ Learning advanced Java skills and self teaching python.
 - 🤝 Open to contributing to open-source projects or connecting with like-minded developers.
 - 🎮 Looking to collaborate on indie video game development as a hobby.
 
